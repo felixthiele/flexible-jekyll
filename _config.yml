@@ -9,7 +9,7 @@ url: "https://felix-thiele.eu" # the base hostname & protocol for your site, e.g
 # Author Settings
 author: Felix Thiele # add your name
 author-img: felix-thiele.png # add your photo
-about-author: I am a IT-Architect and Consultant @msg_group working on engagement platforms for digitalization initiatives.
+about-author: I am a IT-Architect and Consultant <a href="https://www.msg.group/" target="_blank">@msg_group</a> working on engagement platforms for digitalization initiatives.
 social-twitter: _FelixThiele # add your Twitter handle
 social-github: felixthiele # add your Github handle
 social-linkedin: # add your Linkedin handle
