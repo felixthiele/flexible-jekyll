@@ -57,6 +57,14 @@
     font-size: 16px;
     margin: 0 0 10px;
   }
+  a.msg_group-link {
+    color: #a01441;
+    text-decoration: none;
+
+    &:hover, &:active {
+      font-weight: bold;
+    }
+  }
 }
 .content-box {
   padding: 20px;
