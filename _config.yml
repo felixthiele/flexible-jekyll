@@ -9,7 +9,7 @@ url: "https://felix-thiele.eu" # the base hostname & protocol for your site, e.g
 # Author Settings
 author: Felix Thiele # add your name
 author-img: felix-thiele.png # add your photo
-about-author: Loves tinkering around with the newest tech and tools. </br> IT-Architecture, Consulting and Technology Innovation Portfolio Management <a class="msg_group-link" href="https://www.msg.group/" target="_blank">@msg_group</a>, part time agilist and digital transformer. Currently working on customer engagement systems and digital platforms.
+about-author: Loves tinkering around with the newest tech and tools. </br> IT-Architecture, Consulting and Technology Innovation Portfolio Management <a href="https://www.msg.group/" target="_blank">@msg_group</a>, part time agilist and digital transformer. Currently working on customer engagement systems and digital platforms.
 social-twitter: _FelixThiele # add your Twitter handle
 social-github: felixthiele # add your Github handle
 social-linkedin: # add your Linkedin handle
