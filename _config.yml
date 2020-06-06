@@ -1,7 +1,7 @@
 title: Felix Thiele - Blog
-description: > # this means to ignore newlines until "baseurl:"
-  My name is Felix Thiele and this is my blog. 
-  I am a IT-Architect and Consultant @msg_group working on engagement platforms for digitalization initiatives.
+description: > 
+  Loves tinkering around with the newest tech and tools. IT-Architecture, Consulting and Technology Innovation Portfolio Management @msg_group, part time agilist and digital transformer.
+  Currently working on customer engagement systems and digital platforms.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://felix-thiele.eu" # the base hostname & protocol for your site, e.g. http://example.com
@@ -9,7 +9,7 @@ url: "https://felix-thiele.eu" # the base hostname & protocol for your site, e.g
 # Author Settings
 author: Felix Thiele # add your name
 author-img: felix-thiele.png # add your photo
-about-author: I am a IT-Architect and Consultant <a class="msg_group-link" href="https://www.msg.group/" target="_blank">@msg_group</a> working on engagement platforms for digitalization initiatives.
+about-author: Loves tinkering around with the newest tech and tools. </br> IT-Architecture, Consulting and Technology Innovation Portfolio Management <a class="msg_group-link" href="https://www.msg.group/" target="_blank">@msg_group</a>, part time agilist and digital transformer. Currently working on customer engagement systems and digital platforms.
 social-twitter: _FelixThiele # add your Twitter handle
 social-github: felixthiele # add your Github handle
 social-linkedin: # add your Linkedin handle
@@ -17,6 +17,8 @@ social-email: dev@felix-thiele.eu # add your Email address
 
 # Build Settings
 markdown: kramdown
+
+highlighter: rouge
 
 plugins:
   - jekyll-sitemap
