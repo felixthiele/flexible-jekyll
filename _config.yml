@@ -1,7 +1,5 @@
 title: Felix Thiele - Blog
-description: > 
-  Loves tinkering around with the newest tech and tools. IT-Architecture, Consulting and Technology Innovation Portfolio Management @msg_group, part time agilist and digital transformer.
-  Currently working on customer engagement systems and digital platforms.
+description: IT-Architecture, Consulting and Technology Innovation @msg_group, part time agilist & digital transformer. Working on engagement systems and digital platforms.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://felix-thiele.eu" # the base hostname & protocol for your site, e.g. http://example.com
@@ -9,7 +7,7 @@ url: "https://felix-thiele.eu" # the base hostname & protocol for your site, e.g
 # Author Settings
 author: Felix Thiele # add your name
 author-img: felix-thiele.png # add your photo
-about-author: Loves tinkering around with the newest tech and tools. </br> IT-Architecture, Consulting and Technology Innovation Portfolio Management <a href="https://www.msg.group/" target="_blank">@msg_group</a>, part time agilist and digital transformer. Currently working on customer engagement systems and digital platforms.
+about-author: IT-Architecture, Consulting and Technology Innovation <a href="https://www.msg.group/" target="_blank">@msg_group</a>, part time agilist & digital transformer. Working on engagement systems and digital platforms.
 social-twitter: _FelixThiele # add your Twitter handle
 social-github: felixthiele # add your Github handle
 social-linkedin: # add your Linkedin handle
