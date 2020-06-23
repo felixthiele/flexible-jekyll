@@ -49,7 +49,7 @@
       border-radius: 100%;
       margin-bottom: 10px;
     }
-}
+  }
 
   .content-box {
     padding: 20px 10px;
@@ -59,9 +59,13 @@
     align-items: stretch;
   }
 
-.contact-title, .copyright {
-  display: none;
-}
+  .contact-title, .copyright {
+    display: none;
+  }
+
+  .info-title {
+    line-height: 1.5em!important;
+  }
 
 }
 
