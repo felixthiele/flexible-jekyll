@@ -1,0 +1,21 @@
+@media print {
+  .sidebar {
+    display: none;
+  }
+
+  .page-footer {
+    display: none;
+  }
+
+  @page {
+    margin: 2cm 1cm;
+  }
+
+  .content-box {
+    padding-left: 0;
+  }
+
+  h1, h2, h3, h4 {
+    page-break-after: avoid;
+  }
+}
